@@ -1,4 +1,8 @@
- Metodología para la solución de problemas por medio de computadoras.
+![](https://images.cooltext.com/5334117.png)
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+
+
+Metodología para la solución de problemas por medio de computadoras.
 
 La solución de un problema por computadora, requiere de siete pasos, dispuestos de tal forma que cada uno es dependiente de los anteriores, lo cual indica que se trata de un proceso complementario y por lo tanto cada paso exige el mismo cuidado en su elaboración.
 
